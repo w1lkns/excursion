@@ -9,7 +9,8 @@ body{
     color: white;
     text-align: center;
 }
-.header p{
+.header href{
     color: aquamarine;
     font-size: 16px;
+    text-align: center;
 }
