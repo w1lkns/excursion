@@ -1,18 +1,30 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
-}
-
-.header {
     text-align: center;
+}
+h1,h2{
+    color:white;
 }
 .header h1{
     font-weight: normal;
     font-size: 50px;
-    color: white;
 }
-.header p a{
+.header p a,.linkfoot p a{
     color: aquamarine;
     font-size: 16px;
     
+}
+.phone h2,.coming h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+.phone p{
+    font-size: 21px;
+    color: gray;
+}
+.copy p{
+    text-align: right;
+    font-size: 21px;
+    color: gray;
 }
