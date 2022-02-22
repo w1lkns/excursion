@@ -3,14 +3,16 @@ body{
     background-color: black;
 }
 
+.header {
+    text-align: center;
+}
 .header h1{
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
-.header href{
+.header p a{
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
+    
 }
